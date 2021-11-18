@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 haii
 welcome
 hai
+||||||| 09436c2
+haii
+=======
+haii
+viju
+jk
+>>>>>>> 2
